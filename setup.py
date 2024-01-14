@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setuptools.setup(
     name="streamlit_input_box",
-    version="0.0.1",
+    version="0.0.2",
     author="Baptiste Ferrand",
     author_email="bferrand.maths@gmail.com",
     description="Streamlit component that allows you to edit text/code in a convenient text area.",
